@@ -36,8 +36,7 @@ Más proyectos en mi sección de [Repositorios](https://github.com/gavi60?tab=re
 
 ## 🚀 Abierto a nuevas oportunidades
 
-Busco oportunidades como **desarrollador web**, si es posible,  
-con un enfoque especial hacia el frontend, que es lo que más disfruto.
+Busco oportunidades como **desarrollador web**, si es posible, con un enfoque especial hacia el frontend, que es lo que más disfruto.
 Me interesa formar parte de proyectos donde pueda aportar valor y seguir creciendo.  
 
 
