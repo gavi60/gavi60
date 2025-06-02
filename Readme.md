@@ -24,7 +24,7 @@ Soy desarrollador web con enfoque en frontend, efectos visuales y experiencias i
 ## 🌟 Proyectos destacados
 
 - 🎯 [Mi portfolio web](https://gavi60.github.io/portfolio-fs/) – Hecho desde cero con HTML, SCSS, JS y Vite.
-- 🛒 Tienda online en WordPress – Proyecto con filtros y diseño responsive.
+- 🛒 [Tienda online en WordPress](http://glclub.kesug.com/) – Proyecto con filtros y diseño responsive.
 - 🎮 [Portfolio de videojuegos](https://gavi60.github.io/portfolio-vg/) – Desarrollado desde cero, incluye animaciones e interfaz personalizada.  Este proyecto demuestra mis conocimientos técnicos en desarrollo de videojuegos.
 
 Más proyectos en mi sección de [Repositorios](https://github.com/gavi60?tab=repositories)
