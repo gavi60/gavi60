@@ -34,6 +34,13 @@ Más proyectos en mi sección de [Repositorios](https://github.com/gavi60?tab=re
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavi60&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavi60&layout=compact&theme=tokyonight)
 
+## 🚀 Abierto a nuevas oportunidades
+
+Busco oportunidades como **desarrollador web**, si es posible,  
+con un enfoque especial hacia el frontend, que es lo que más disfruto.
+Me interesa formar parte de proyectos donde pueda aportar valor y seguir creciendo.  
+
+
 ## 📬 ¿Hablamos?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gaviria-grajales-99b816164/)
